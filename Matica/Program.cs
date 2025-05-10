@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Matica");
+            Console.WriteLine("Matica is a simple calculator for basic math operations.");
         }
     }
 }
